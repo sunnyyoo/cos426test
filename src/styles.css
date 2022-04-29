@@ -1,0 +1,16 @@
+.hitpoints {
+  position: absolute;
+  z-index: 100;
+  text-align: left;
+  display: block;
+
+  top: 32px;
+  left: 32px;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
